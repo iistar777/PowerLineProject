@@ -1,0 +1,8 @@
+D:\Work Projects\PowerLineProject\CarApp\CarApp\bin\Debug\CarApp.exe.config
+D:\Work Projects\PowerLineProject\CarApp\CarApp\bin\Debug\CarApp.exe
+D:\Work Projects\PowerLineProject\CarApp\CarApp\bin\Debug\CarApp.pdb
+D:\Work Projects\PowerLineProject\CarApp\CarApp\obj\Debug\CarApp.csproj.AssemblyReference.cache
+D:\Work Projects\PowerLineProject\CarApp\CarApp\obj\Debug\CarApp.csproj.SuggestedBindingRedirects.cache
+D:\Work Projects\PowerLineProject\CarApp\CarApp\obj\Debug\CarApp.csproj.CoreCompileInputs.cache
+D:\Work Projects\PowerLineProject\CarApp\CarApp\obj\Debug\CarApp.exe
+D:\Work Projects\PowerLineProject\CarApp\CarApp\obj\Debug\CarApp.pdb
